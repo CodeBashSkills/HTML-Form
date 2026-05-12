@@ -239,9 +239,9 @@ Code for creating an Online-Form using HTML 😄
 # Summary
 
 - That's how you can create an '_Online-Form_' including features like:
-  Radio Button
-  Check Boxes
-  Set Password
-  Calendar/Date Selector
+  Radio Button, 
+  Check Boxes, 
+  Set Password, 
+  Calendar/Date Selector, 
   Table &
-  Submit Form Button
+  Submit Form Button.

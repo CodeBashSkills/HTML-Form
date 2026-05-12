@@ -2,7 +2,7 @@
 
 Code for creating an Online-Form using HTML 😄
 
-# What we will learn in this lessom
+# What we will learn in this lesson
 
 - How to create _Heading_ in html
 - How to create _Italic Text_ in html
@@ -239,9 +239,9 @@ Code for creating an Online-Form using HTML 😄
 # Summary
 
 - That's how you can create an '_Online-Form_' including features like:
-  Radio Button, 
-  Check Boxes, 
-  Set Password, 
-  Calendar/Date Selector, 
+  Radio Button,
+  Check Boxes,
+  Set Password,
+  Calendar/Date Selector,
   Table &
   Submit Form Button.
